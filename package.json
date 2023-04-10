@@ -1,0 +1,19 @@
+{
+  "name": "plate-scraper",
+  "version": "1.0.0",
+  "description": "given a plate, returns which of the states the plate has been taken in",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femmiiie/plate-scraper.git"
+  },
+  "author": "Sandro Mocevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/femmiiie/plate-scraper/issues"
+  },
+  "homepage": "https://github.com/femmiiie/plate-scraper#readme"
+}
